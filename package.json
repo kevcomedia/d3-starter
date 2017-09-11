@@ -1,6 +1,6 @@
 {
   "name": "d3-starter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Starter config for d3 projects",
   "main": "index.js",
   "scripts": {

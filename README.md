@@ -32,6 +32,12 @@ It will run `webpack-dev-server` and open the project in a browser at
 npm run build
 ```
 
+## Changelog
+
+### v1.0.1
+
+Add Vim `*.swp` files to `.gitignore`.
+
 ## License
 
 MIT
